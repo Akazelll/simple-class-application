@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1742875012 source:d:\kuliah\semester 2\algoritma dan struktur data\pertemuan_5_praktek\main.cpp
+	<iostream>
+
+1742876890 source:d:\kuliah\semester 2\algoritma dan struktur data\pertemuan_5_praktek\pustaka.cpp
+	"header.h"
+
+1742876890 d:\kuliah\semester 2\algoritma dan struktur data\pertemuan_5_praktek\header.h
+	<iostream>
+
